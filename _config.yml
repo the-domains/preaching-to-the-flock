@@ -1,4 +1,3 @@
-layout_spectrum: 0.31993861868977547
 typography_spectrum: 0.3678214056417346
 color:
   brandStrength: 0.758394054370001
@@ -11,8 +10,10 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.31993861868977547
 name: Preaching to the Flock
 navigation:
   - name: My original site
     url: 'http://youngtaichi.com/blog'
     type: external
+title: 'Theology, preaching and chickens'
