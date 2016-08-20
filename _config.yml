@@ -12,8 +12,4 @@ color:
     - '#160600'
 layout_spectrum: 0.31993861868977547
 name: Preaching to the Flock
-navigation:
-  - name: My original site
-    url: 'http://youngtaichi.com/blog'
-    type: external
 title: 'Spirituality, Gardening and Chickens'
