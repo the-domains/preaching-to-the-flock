@@ -6,9 +6,13 @@ color:
   saturation: 0.9873512552585453
   rhythmicContrast: 0.18058229726739228
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Preaching to the Flock
+navigation:
+  - name: My original site
+    url: 'http://youngtaichi.com/blog'
+    type: external
